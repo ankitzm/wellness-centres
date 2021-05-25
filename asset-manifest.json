@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wellness-centres/static/css/main.3f776259.css",
-    "main.js": "/wellness-centres/static/js/main.eeeb904b.js",
-    "main.js.map": "/wellness-centres/static/js/main.eeeb904b.js.map",
+    "main.js": "/wellness-centres/static/js/main.69d3dc7e.js",
+    "main.js.map": "/wellness-centres/static/js/main.69d3dc7e.js.map",
     "index.html": "/wellness-centres/index.html",
-    "precache-manifest.539235e0dd2fff98b2b4dc8249f64112.js": "/wellness-centres/precache-manifest.539235e0dd2fff98b2b4dc8249f64112.js",
+    "precache-manifest.b02edd6b4d9edcd73839e50629a7f318.js": "/wellness-centres/precache-manifest.b02edd6b4d9edcd73839e50629a7f318.js",
     "service-worker.js": "/wellness-centres/service-worker.js",
     "static/css/main.3f776259.css.map": "/wellness-centres/static/css/main.3f776259.css.map",
-    "static/js/main.eeeb904b.js.LICENSE.txt": "/wellness-centres/static/js/main.eeeb904b.js.LICENSE.txt"
+    "static/js/main.69d3dc7e.js.LICENSE.txt": "/wellness-centres/static/js/main.69d3dc7e.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/css/main.3f776259.css",
-    "static/js/main.eeeb904b.js"
+    "static/js/main.69d3dc7e.js"
   ]
 }
