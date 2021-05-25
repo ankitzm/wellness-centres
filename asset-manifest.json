@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wellness-records/static/css/main.3f776259.css",
+    "main.js": "/wellness-records/static/js/main.466379c9.js",
+    "main.js.map": "/wellness-records/static/js/main.466379c9.js.map",
+    "index.html": "/wellness-records/index.html",
+    "precache-manifest.493f0958b25c093d0979cb1b7343e864.js": "/wellness-records/precache-manifest.493f0958b25c093d0979cb1b7343e864.js",
+    "service-worker.js": "/wellness-records/service-worker.js",
+    "static/css/main.3f776259.css.map": "/wellness-records/static/css/main.3f776259.css.map",
+    "static/js/main.466379c9.js.LICENSE.txt": "/wellness-records/static/js/main.466379c9.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/main.3f776259.css",
+    "static/js/main.466379c9.js"
+  ]
+}
